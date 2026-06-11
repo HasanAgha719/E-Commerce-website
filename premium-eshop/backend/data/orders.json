@@ -1,0 +1,33 @@
+[
+  {
+    "id": "order-1781187314646",
+    "userId": "user-1781187257513",
+    "items": [
+      {
+        "id": "prod-6",
+        "name": "ZenFlow Keyboard",
+        "price": 129.99,
+        "image": "/images/keyboard.jpg",
+        "quantity": 1
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "hello",
+      "address": "123",
+      "city": "Bhongir",
+      "zip": "508116",
+      "phone": "9381824895"
+    },
+    "paymentMethod": "Credit Card",
+    "discountCode": null,
+    "financials": {
+      "subtotal": 129.99,
+      "shipping": 15,
+      "tax": 10.4,
+      "discount": 0,
+      "total": 155.39
+    },
+    "status": "Processing",
+    "date": "2026-06-11T14:15:14.646Z"
+  }
+]

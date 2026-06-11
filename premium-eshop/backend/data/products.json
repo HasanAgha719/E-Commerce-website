@@ -1,0 +1,98 @@
+[
+  {
+    "id": "prod-1",
+    "name": "AeroSound Max",
+    "category": "Audio",
+    "price": 299.99,
+    "description": "Experience studio-grade audio quality with adaptive active noise cancellation, 40-hour battery life, and spatial audio support. Built with carbon-fiber reinforced earcups and memory foam cushions.",
+    "image": "/images/headphones.jpg",
+    "stock": 15,
+    "rating": 4.8,
+    "reviews": 124,
+    "featured": true
+  },
+  {
+    "id": "prod-2",
+    "name": "Minimalist Chrono",
+    "category": "Fashion",
+    "price": 189,
+    "description": "Elegant, clean design featuring a matte black stainless steel case, scratch-resistant sapphire glass, and a genuine Italian leather strap. Water resistant up to 50 meters.",
+    "image": "/images/watch.jpg",
+    "stock": 20,
+    "rating": 4.5,
+    "reviews": 88,
+    "featured": true
+  },
+  {
+    "id": "prod-3",
+    "name": "Lumio Arc",
+    "category": "Home",
+    "price": 79.99,
+    "description": "Intelligent lighting featuring customizable HSL colors, light temperature control, integrated 15W wireless phone charger, and smart voice assistant integration.",
+    "image": "/images/lamp.jpg",
+    "stock": 35,
+    "rating": 4.6,
+    "reviews": 210,
+    "featured": false
+  },
+  {
+    "id": "prod-4",
+    "name": "Apex Shell Backpack",
+    "category": "Accessories",
+    "price": 149.5,
+    "description": "Anti-theft modern backpack with modular packing compartments, integrated USB-C charging port, and water-repellent hardshell exterior. Fits laptops up to 16 inches.",
+    "image": "/images/backpack.jpg",
+    "stock": 25,
+    "rating": 4.7,
+    "reviews": 95,
+    "featured": true
+  },
+  {
+    "id": "prod-5",
+    "name": "Glass HUD Smartwear",
+    "category": "Tech",
+    "price": 499,
+    "description": "Compact, stylish smart glasses projecting navigation overlay, notification HUD, and workout stats in real-time directly onto your field of view.",
+    "image": "/images/glasses.jpg",
+    "stock": 8,
+    "rating": 4.2,
+    "reviews": 34,
+    "featured": false
+  },
+  {
+    "id": "prod-6",
+    "name": "ZenFlow Keyboard",
+    "category": "Tech",
+    "price": 129.99,
+    "description": "Ultra-quiet hot-swappable mechanical switches with customized maple-wood body, durable double-shot PBT keycaps, and dual-mode 2.4GHz + Bluetooth connectivity.",
+    "image": "/images/keyboard.jpg",
+    "stock": 17,
+    "rating": 4.9,
+    "reviews": 142,
+    "featured": true
+  },
+  {
+    "id": "prod-7",
+    "name": "Nova Pods ANC",
+    "category": "Audio",
+    "price": 119.99,
+    "description": "Featherlight active noise-cancelling earbuds with immersive deep bass, customizable touch tap patterns, custom EQ app profiles, and IPX7 sweatproof resistance.",
+    "image": "/images/earbuds.jpg",
+    "stock": 40,
+    "rating": 4.4,
+    "reviews": 315,
+    "featured": false
+  },
+  {
+    "id": "prod-8",
+    "name": "Nomad Self-Purifying Flask",
+    "category": "Accessories",
+    "price": 69,
+    "description": "Equipped with state-of-the-art UV-C purification technology that cleans the water and interior of the bottle at the touch of a button. Double-walled vacuum insulation.",
+    "image": "/images/flask.jpg",
+    "stock": 50,
+    "rating": 4.7,
+    "reviews": 180,
+    "featured": false
+  }
+]
